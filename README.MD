@@ -1,6 +1,6 @@
-Desafio de prática CSS DEV MEDIA 
+## Desafio de prática CSS DEV MEDIA 
 
-Checklist
+## Checklist
 
 Para garantir que o Passo 2 está completo, verifique os itens abaixo:
 
